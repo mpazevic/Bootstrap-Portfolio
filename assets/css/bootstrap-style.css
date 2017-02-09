@@ -1,0 +1,244 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+	margin-bottom: 80px;
+	background: url("https://subtlepatterns.com/patterns/subtle_white_mini_waves.png");
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 18px;
+	line-height: 30px;
+}
+
+textarea {
+	max-width: 100%;
+	width: 100vw;
+}
+
+form {
+	margin-left: 3px;
+	line-height: 50px;
+	font-size: 18px;
+	color: #777777;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.input-group {
+	margin-bottom: 20px;
+}
+
+#panel-whole {
+	float: right;
+}
+
+.navbar {
+	border-bottom: 2px solid #dddddd;
+	background-color: #ffffff;
+}
+
+.container-fluid {
+	margin-left: 3vw;
+}
+
+.navbar-brand {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	text-align: center;
+	font-weight: bold;
+	line-height: 5px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-right: 30px;
+	padding-left: 30px;
+	font-size: 26px;
+}
+
+#font {
+	color: #ffffff;
+	background-color: #4aaaa5;
+}
+
+.navbar-right {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	margin-top: 15px;
+	font-size: 18px;
+	padding-right: 3vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navbar-toggle {
+	margin-top: 23px;
+}
+
+#index-drop {
+	text-align: right;
+	margin-right: 7px;
+}
+
+#portfolio-drop {
+	text-align: right;
+}
+
+#contact-drop {
+	text-align: right;
+	margin-right: 3px;
+}
+
+#body-elements {
+	margin-top: 30px;
+}
+
+h1 {
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-weight: bold;
+	font-size: 26px;
+	color: #4aaaa5;
+}
+
+.page-header-contact {
+	border-bottom: 2px solid #dddddd;
+	margin-top: 40px;
+	padding-bottom: 20px;
+}
+
+#about-me {
+	border: 1px solid #dddddd;
+	background-color: #ffffff;
+	margin-bottom: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 40px;
+}
+
+#message-section {
+	padding-top: 10px;
+}
+
+#contact-submit {
+	margin-top: 20px;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 16px;
+	color: #ffffff;
+	border: 1px solid #dddddd;
+	background-color: #4aaaa5;
+}
+
+#col-portfolio {
+	border: 1px solid #dddddd;
+	background-color: #ffffff;
+	margin-bottom: 30px;
+	margin-left: 15px;
+	margin-right: 15px;
+	padding-bottom: 20px;
+}
+
+.portfolio-left {
+	float: left;
+	width: 49%;
+	margin-bottom: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.portfolio-right {
+	float: right;
+	width: 49%;
+	margin-bottom: 50px;
+	padding-right: 20px;
+}
+
+.portfolio-img {
+	width: 100%;
+	height: 230px;
+}
+
+.project-text {
+	position: relative;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	margin-top: -60px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	background-color: #4aaaa5;
+	opacity: .9;
+	color: #ffffff;
+	font-size: 18px;
+}
+
+#profile {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	width: 180px;
+	height: 150px;
+}
+
+#about-me-content {
+	float: left;
+}
+
+.panel-title {
+	text-align: left;
+	padding-left: 20px;
+	font-family: 'Georgia', Times, 'Times New Roman', serif;
+	font-weight: bold;
+	color: #4aaaa5;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+.panel-default {
+	margin-bottom: 30px;
+}
+
+#image-row {
+	padding-right: 0px;
+	padding-left: 25px;
+}
+
+#github {
+	float: left;
+	margin-right: 10px;
+	width: 50px;
+	height: 50px;
+}
+#linkedin {
+	float: left;
+	margin-left: 12px;
+	width: 50px;
+	height: 50px;
+}
+#stackoverflow {
+	float: left;
+	margin-left: 23px;
+	width: 50px;
+	height: 50px;
+}
+
+.text-muted {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 10px;
+	margin-top: 20px;
+	color: #dddddd;
+}
+.footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+}
